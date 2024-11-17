@@ -79,7 +79,7 @@ Advanced queries:
 
 ## SQL Queries & Analysis
 
-The `analysis.sql` file contains all SQL queries developed for this project. Each query corresponds to a business problem and demonstrates skills in SQL syntax, data filtering, aggregation, grouping, and ordering.
+The `FitPro_Business_Problems.sql` file contains all SQL queries developed for this project. Each query corresponds to a business problem and demonstrates skills in SQL syntax, data filtering, aggregation, grouping, and ordering.
 
 ## Getting Started
 
@@ -96,7 +96,7 @@ The `analysis.sql` file contains all SQL queries developed for this project. Eac
    - Run the `schema.sql` script to set up tables and insert sample data.
 
 3. **Run Queries**:
-   - Execute each query in `analysis.sql` to explore and analyze the data.
+   - Execute each query in `FitPro_Business_Problems.sql` to explore and analyze the data.
 
 ---
 
@@ -109,7 +109,7 @@ If you have any questions or feedback, feel free to create an issue or reach out
 ## Contact Me
 
 📄 **[Resume](#)**  
-📧 **[Email](mailto:your.email@example.com)**  
-📞 **Phone**: +123-456-7890  
+📧 **[Email](mailto:mohammedwaghith@gmail.com)**  
+📞 **Phone**: 
 
 --
