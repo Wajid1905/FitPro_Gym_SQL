@@ -93,7 +93,7 @@ The `FitPro_Business_Problems.sql` file contains all SQL queries developed for t
    git clone https://github.com/yourusername/fitpro-gym-sql-project.git
    ```
 2. **Set Up the Database**:
-   - Run the `schema.sql` script to set up tables and insert sample data.
+   - Run the `FitPro_Schemas_wag.sql` script to set up tables and insert sample data.
 
 3. **Run Queries**:
    - Execute each query in `FitPro_Business_Problems.sql` to explore and analyze the data.
