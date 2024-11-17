@@ -1,7 +1,3 @@
-# FitPro_Gym_SQL
-FitPro Gym SQL Project
----
-
 # FitPro Gym SQL Project
 
 ![Project Image Placeholder](https://github.com/najirh/firpro-p1/blob/main/Fitpro.png) 
