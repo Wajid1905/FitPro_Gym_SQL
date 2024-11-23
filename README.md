@@ -90,7 +90,7 @@ The `FitPro_Business_Problems.sql` file contains all SQL queries developed for t
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/fitpro-gym-sql-project.git
+   git clone https://github.com/Wajid1905/FitPro_Gym_SQL.git
    ```
 2. **Set Up the Database**:
    - Run the `FitPro_Schemas_wag.sql` script to set up tables and insert sample data.
